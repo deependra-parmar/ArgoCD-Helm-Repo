@@ -3,12 +3,12 @@ entries:
   backend-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-21T15:00:44.250736+05:30"
+    created: "2025-03-21T15:09:45.685015+05:30"
     description: Basic helm chart for express-backend application
-    digest: e00295815cc2cbc3043e9c15dcd42f23caf121016e0946929036e374ef45b882
+    digest: cf8267fb56d74a9bba0a20b5ed4d6c8abcb64b6e42ceb1a7e8727d3efc591b86
     name: backend-app
     type: application
     urls:
     - https://deependra-parmar.github.io/ArgoCD-Helm-Repo/backend-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-21T15:00:44.249752+05:30"
+generated: "2025-03-21T15:09:45.683383+05:30"
